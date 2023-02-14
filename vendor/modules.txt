@@ -45,7 +45,7 @@ github.com/appscode/go/wait
 github.com/appscode/osm/context
 # github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e
 github.com/armon/circbuf
-# github.com/aws/aws-sdk-go v1.31.9
+# github.com/aws/aws-sdk-go v1.34.0
 github.com/aws/aws-sdk-go/aws
 github.com/aws/aws-sdk-go/aws/arn
 github.com/aws/aws-sdk-go/aws/awserr
