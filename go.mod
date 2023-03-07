@@ -13,7 +13,8 @@ require (
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/gopherjs/gopherjs v0.0.0-20191106031601-ce3c9ade29de // indirect
-	github.com/kubernetes-csi/external-snapshotter/v2 v2.1.1-0.20200521091436-82ef6e66e992
+	github.com/imdario/mergo v0.3.9 // indirect
+	github.com/kubernetes-csi/external-snapshotter/v2 v2.1.3
 	github.com/onsi/ginkgo v1.11.0
 	github.com/onsi/gomega v1.8.1
 	github.com/opencontainers/go-digest v1.0.0 // indirect
